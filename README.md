@@ -34,4 +34,4 @@ Google Colab / VS Code
 The objective of this repository is to understand and implement different machine learning algorithms through practical experiments and real datasets.
 
 Author
-Khushi Rupareliya
+Khushi Patil
